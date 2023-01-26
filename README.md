@@ -39,6 +39,17 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white" />
 </div>
 
+<div align="center">
+	<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
+	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
+	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+	<img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white" />
+	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+	<img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat&logo=Google Drive&logoColor=white" />
+	<img src="https://img.shields.io/badge/Google Meet-00897B?style=flat&logo=Google Meet&logoColor=white" />
+</div>
 <img src="https://camo.githubusercontent.com/542e96769e8dfc263815723e7fffdc570c12bcccae39a787e31510c86be81ab3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c253230576f726b62656e63682d3434373941312e7376673f267374796c653d666c61742d737175617265266c6f676f3d6d7953514c253230576f726b62656e6368266c6f676f436f6c6f723d7768697465" alt="MySQL Workbech" data-canonical-src="https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?&amp;style=flat-square&amp;logo=mySQL%20Workbench&amp;logoColor=white" style="max-width: 100%;">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHosik&layout=compact"><br><br>

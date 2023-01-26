@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+</div>
 
-<img src="https://img.shields.io/badge/#Python-#3776AB?style=flat&logo=#Python&logoColor=white"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHosik&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=LeeHosik&show_icons=true">

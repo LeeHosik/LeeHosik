@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://img.shields.io/badge/#3776AB-#3776AB?style=flat&logo=#3776AB&logoColor=white"/>
+<img src="https://img.shields.io/badge/#Python-#3776AB?style=flat&logo=#Python&logoColor=white"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeHosik&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=LeeHosik&show_icons=true">
